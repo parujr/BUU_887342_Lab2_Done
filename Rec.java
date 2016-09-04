@@ -9,6 +9,8 @@ public class Rec {
 	
 	// fill me in
 	// To work on numDigits.
+	if (n < 10) return 1;
+	return numDigits(n/10) + 1;
 	
     }
 
