@@ -18,6 +18,7 @@ public class Rec {
     public static int sumDigits(int n) {
 	
 	// fill me in
+	// To work on sumDigits
 	
     }
 	
